@@ -1,4 +1,8 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--xG1gcsyJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg)](https://github.com/mbharath246)
+<p align="center">
+  <a href="https://github.com/mbharath246">
+    <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" height="500px" width="90%" alt="MasterHead" />
+  </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Bharath Mottikayala</h1>
 <h3 align="center">A passionate Software Developer constantly exploring new technologies and building exciting projects.</h3>
@@ -23,8 +27,8 @@
   </table>
 </div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://linkedin.com/in/bharath-mottikayala" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharath-mottikayala" height="30" width="40" />
   </a>
@@ -39,8 +43,8 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
