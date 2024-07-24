@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/mbharath246">
-    <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" height="500px" width="90%" alt="MasterHead" />
+    <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" height="400px" width="85%" alt="MasterHead" />
   </a>
 </p>
 
