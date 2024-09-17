@@ -16,7 +16,7 @@
     <tr>
       <td>
         - 🚀 I'm proficient in <strong>Python, FastAPI, Django, JavaScript, Postgres.</strong><br>
-        - 🌱 I’m currently learning <strong>React</strong><br>
+        - 🌱 I’m currently learning <strong>Machine Learning and AI</strong><br>
         - 💬 Ask me about <strong>Python, Django, FastAPI</strong><br>
         - 📫 How to reach me: <strong><a href="mailto:bharathroyal246@gmail.com">bharathroyal246@gmail.com</a></strong>
       </td>
